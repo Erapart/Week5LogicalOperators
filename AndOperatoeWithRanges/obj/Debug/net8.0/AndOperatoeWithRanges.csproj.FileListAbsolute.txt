@@ -1,0 +1,14 @@
+C:\Users\malle\source\repos\Week6AndOrLogicalOperators\AndOperatoeWithRanges\bin\Debug\net8.0\AndOperatoeWithRanges.exe
+C:\Users\malle\source\repos\Week6AndOrLogicalOperators\AndOperatoeWithRanges\bin\Debug\net8.0\AndOperatoeWithRanges.deps.json
+C:\Users\malle\source\repos\Week6AndOrLogicalOperators\AndOperatoeWithRanges\bin\Debug\net8.0\AndOperatoeWithRanges.runtimeconfig.json
+C:\Users\malle\source\repos\Week6AndOrLogicalOperators\AndOperatoeWithRanges\bin\Debug\net8.0\AndOperatoeWithRanges.dll
+C:\Users\malle\source\repos\Week6AndOrLogicalOperators\AndOperatoeWithRanges\bin\Debug\net8.0\AndOperatoeWithRanges.pdb
+C:\Users\malle\source\repos\Week6AndOrLogicalOperators\AndOperatoeWithRanges\obj\Debug\net8.0\AndOperatoeWithRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malle\source\repos\Week6AndOrLogicalOperators\AndOperatoeWithRanges\obj\Debug\net8.0\AndOperatoeWithRanges.AssemblyInfoInputs.cache
+C:\Users\malle\source\repos\Week6AndOrLogicalOperators\AndOperatoeWithRanges\obj\Debug\net8.0\AndOperatoeWithRanges.AssemblyInfo.cs
+C:\Users\malle\source\repos\Week6AndOrLogicalOperators\AndOperatoeWithRanges\obj\Debug\net8.0\AndOperatoeWithRanges.csproj.CoreCompileInputs.cache
+C:\Users\malle\source\repos\Week6AndOrLogicalOperators\AndOperatoeWithRanges\obj\Debug\net8.0\AndOperatoeWithRanges.dll
+C:\Users\malle\source\repos\Week6AndOrLogicalOperators\AndOperatoeWithRanges\obj\Debug\net8.0\refint\AndOperatoeWithRanges.dll
+C:\Users\malle\source\repos\Week6AndOrLogicalOperators\AndOperatoeWithRanges\obj\Debug\net8.0\AndOperatoeWithRanges.pdb
+C:\Users\malle\source\repos\Week6AndOrLogicalOperators\AndOperatoeWithRanges\obj\Debug\net8.0\AndOperatoeWithRanges.genruntimeconfig.cache
+C:\Users\malle\source\repos\Week6AndOrLogicalOperators\AndOperatoeWithRanges\obj\Debug\net8.0\ref\AndOperatoeWithRanges.dll

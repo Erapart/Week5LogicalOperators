@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malle\\source\\repos\\Week6AndOrLogicalOperators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D957FD-3252-4E46-BAF9-3940B1DD31A2}|AndOperatoeWithRanges\\AndOperatoeWithRanges.csproj|c:\\users\\malle\\source\\repos\\week6andorlogicaloperators\\andoperatoewithranges\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D957FD-3252-4E46-BAF9-3940B1DD31A2}|AndOperatoeWithRanges\\AndOperatoeWithRanges.csproj|solutionrelative:andoperatoewithranges\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87EEB23-E4BE-47E6-8CAE-14F2F37E6F5B}|Week6AndOrLogicalOperators\\Week6AndOrLogicalOperators.csproj|c:\\users\\malle\\source\\repos\\week6andorlogicaloperators\\week6andorlogicaloperators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87EEB23-E4BE-47E6-8CAE-14F2F37E6F5B}|Week6AndOrLogicalOperators\\Week6AndOrLogicalOperators.csproj|solutionrelative:week6andorlogicaloperators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malle\\source\\repos\\Week6AndOrLogicalOperators\\AndOperatoeWithRanges\\Program.cs",
+              "RelativeDocumentMoniker": "AndOperatoeWithRanges\\Program.cs",
+              "ToolTip": "C:\\Users\\malle\\source\\repos\\Week6AndOrLogicalOperators\\AndOperatoeWithRanges\\Program.cs",
+              "RelativeToolTip": "AndOperatoeWithRanges\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:17:37.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malle\\source\\repos\\Week6AndOrLogicalOperators\\Week6AndOrLogicalOperators\\Program.cs",
+              "RelativeDocumentMoniker": "Week6AndOrLogicalOperators\\Program.cs",
+              "ToolTip": "C:\\Users\\malle\\source\\repos\\Week6AndOrLogicalOperators\\Week6AndOrLogicalOperators\\Program.cs",
+              "RelativeToolTip": "Week6AndOrLogicalOperators\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:31:55.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
